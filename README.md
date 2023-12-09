@@ -21,13 +21,15 @@ Skills and Languages:
 
 Latest Projects:
 
-![](https://i.ibb.co/wZHXChJ/screencapture-assigment-010-web-app-2023-12-09-19-30-23.png)
+- <a href="https://assigment-010.web.app/">Bongo-Job Live Link</a>
 Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
-- <a href="https://assigment-010.web.app/">Bongo-Job Live Link</a>
+
 
 
 - <a href="https://hostel-management-7f6f8.web.app/">Hostel-Managements Live Link</a>
+Tools:
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
 
 
 
