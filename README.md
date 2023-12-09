@@ -2,7 +2,9 @@
 
 Hello, this is Adnan Rony. I am a Web developer specialized with,MongoDb, React Js, Java Script, Firebase,Tailwind CSS, HTML, CSS,. Now i am learning ReactJS. Currently I am studying Computer Science and Engineering in Daffodil International University. I am also doing a course "Front-end-development"
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills and Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind,bootstrap,html,css,github,vscode,linkedin,c,cpp,java,figma)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page. 
 
