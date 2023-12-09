@@ -6,7 +6,7 @@ Skills and Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind,bootstrap,html,css,github,vscode,linkedin,c,cpp,java,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adnan-Rony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adnan-rony//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/adnanrony19)  
@@ -18,4 +18,9 @@ Skills and Languages:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Rony&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Rony)  
+Latest Projects:
+- <a href="https://assigment-010.web.app/">Bongo-Job Live Link</a>
+- <a href="https://hostel-management-7f6f8.web.app/">Hostel-Managements Live Link</a>
+
+
 
