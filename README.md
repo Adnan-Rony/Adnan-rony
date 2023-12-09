@@ -17,9 +17,16 @@ Skills and Languages:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Rony&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Rony)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Rony) 
+
 Latest Projects:
+
+![](https://i.ibb.co/wZHXChJ/screencapture-assigment-010-web-app-2023-12-09-19-30-23.png)
+Tools:
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
 - <a href="https://assigment-010.web.app/">Bongo-Job Live Link</a>
+
+
 - <a href="https://hostel-management-7f6f8.web.app/">Hostel-Managements Live Link</a>
 
 
