@@ -31,7 +31,7 @@ Tools:
 
 
 
-- <a href="https://ttechdev.vercel.app/">TechDev Live Link</a>
+- <a href="https://ecommercetechdev.vercel.app/">TechDev Live Link</a>
 Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
 
