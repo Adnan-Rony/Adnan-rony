@@ -64,8 +64,8 @@ Check out my personal portfolio:
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/adnanrony/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:adnanronyofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adnan-rony/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:adnanrony19@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Adnan-Rony"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 </p>
 
