@@ -1,39 +1,76 @@
-![](https://i.ibb.co/Dwq7D8t/Screenshot-2023-12-09-143507.png)
+<h1 align="center">Hi 👋, I'm Adnan Rony</h1>
+<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
-Hello, this is Adnan Rony. I am a Web developer specialized with,MongoDb, React Js, Java Script, Firebase,Tailwind CSS, HTML, CSS,. Now i am learning ReactJS. Currently I am studying Computer Science and Engineering in Daffodil International University. I am also doing a course "Front-end-development"
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20(MERN%20Stack);Specialized%20in%20React%2C%20MongoDB%2C%20Firebase;Open%20Source%20Contributor;Love%20Building%20Projects%20and%20UIs&center=true&width=800&height=40" />
+</p>
 
-Skills and Languages:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind,bootstrap,html,css,github,vscode,linkedin,c,cpp,java,figma)](https://skillicons.dev)
+### 🔥 About Me
+- 🎓 I’m currently studying **Computer Science & Engineering** at **Daffodil International University**
+- 📚 Currently learning **ReactJS** and advancing my **Front-End Development** skills
+- 🌐 I’m building web apps using **MongoDB, Express, React, Node.js, Firebase**
+- ✉️ Reach me: **adnanrony19@gmail.com**
+- 🌍 Portfolio: [adnanrony.netlify.app](https://adnanrony.netlify.app)
 
+---
 
+### 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,firebase,tailwind,bootstrap,html,css,vite,github,vscode,figma,c,cpp,java,linkedin" />
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Rony&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Rony&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adnan-Rony&theme=tokyonight" height="150"/>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Rony)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Rony&show_icons=true&count_private=true)  
+#### 🔗 [TechDev – E-Commerce Website](https://ecommercetechdev.vercel.app/)
+**Tools Used**:  
+![TechDev Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Rony) 
+---
 
-My Portfolio:
-<a href="https://adnanrony.netlify.app/">Portfolio Live Link</a>
+#### 🔗 [DevThought – Blogging Platform](https://devthought.vercel.app/)
+**Tools Used**:  
+![DevThought Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind)
 
+---
 
-Latest Projects:
+### 🌐 Portfolio
+Check out my personal portfolio:  
+🔗 [adnanrony.netlify.app](https://adnanrony.netlify.app/)
 
-- <a href="https://devthought.vercel.app/">DevThoroght Live Link</a>
-Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
+---
 
+### 🏆 Achievements & Badges
+<p align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a>
+</p>
 
+---
 
-- <a href="https://ecommercetechdev.vercel.app/">TechDev Live Link</a>
-Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,js,firebase,tailwind)](https://skillicons.dev)
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/adnanrony/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:adnanronyofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Adnan-Rony"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
 
+---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adnan-Rony&label=Profile%20Views&color=0e75b6&style=flat" alt="Adnan-Rony" />
+</p>
