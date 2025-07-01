@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 - 🎓 I’m currently studying **Computer Science & Engineering** at **Daffodil International University**
-- 📚 Currently learning **ReactJS** and advancing my **Front-End Development** skills
+- 📚 Currently learning **NextJS** **TypeScript** **ReactJS** and advancing my **Front-End Development** skills
 - 🌐 I’m building web apps using **MongoDB, Express, React, Node.js, Firebase**
 - ✉️ Reach me: **adnanrony19@gmail.com**
 - 🌍 Portfolio: [adnanrony.netlify.app](https://adnanrony.netlify.app)
@@ -18,7 +18,7 @@
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,firebase,tailwind,bootstrap,html,css,vite,github,vscode,figma,c,cpp,java,linkedin" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,js,firebase,tailwind,bootstrap,html,css,vite,github,vscode,figma,c,cpp,java,linkedin" />
 </p>
 
 ---
@@ -55,10 +55,7 @@ Check out my personal portfolio:
 
 ---
 
-### 🏆 Achievements & Badges
-<p align="center">
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a>
-</p>
+
 
 ---
 
