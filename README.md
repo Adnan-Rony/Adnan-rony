@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adnan Rony</h1>
+<h1 align="center">Hi , I'm Adnan Rony</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://i.ibb.co/rKV8DpYM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="Adnan Rony Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer%20(MERN%20Stack);Specialized%20in%20React%2C%20MongoDB%2C%20Firebase;Open%20Source%20Contributor;Love%20Building%20Projects%20and%20UIs&center=true&width=800&height=40" />
